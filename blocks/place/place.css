@@ -1,0 +1,9 @@
+.place {
+  display: grid;
+  grid-template-rows: 152px minmax(auto, 460px);
+  grid-template-columns: minmax(auto, 460px) 484px;
+  gap: 48px 40px;
+}
+.place:not(:last-child) {
+  padding-bottom: 80px;
+}
