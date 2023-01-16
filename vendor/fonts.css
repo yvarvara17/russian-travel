@@ -2,12 +2,22 @@
   font-family: 'Inter';
   src: url(../fonts/Inter-Regular.woff2),
        url(../fonts/Inter-Regular.woff);
-  font-weight: normal;
+  font-style: normal;
+  font-weight: 400;
 }
 
 @font-face {
   font-family: 'Inter';
   src: url(../fonts/Inter-Bold.woff2),
        url(../fonts/Inter-Bold.woff);
-  font-weight: bold;
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url(../fonts/Inter-Black.woff2),
+       url(../fonts/Inter-Black.woff);
+  font-style: normal;
+  font-weight: 900;
 }
