@@ -8,3 +8,25 @@
 .place__paragraph:not(:last-child) {
   padding-bottom: 26px;
 }
+@media (max-width: 1280px) {
+
+}
+@media (max-width: 1024px) {
+  .place__paragraph:not(:last-child) {
+    padding-bottom: 27px;
+  }
+}
+@media (max-width: 768px) {
+  .place__paragraph {
+    font-size: 16px;
+  }
+  .place__paragraph:not(:last-child) {
+    padding-bottom: 25px;
+  }
+}
+@media (max-width: 425px) {
+  .place__paragraph {
+    font-size: 16px;
+    padding: 0 5%;
+  }
+}

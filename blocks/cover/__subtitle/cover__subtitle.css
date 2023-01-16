@@ -9,3 +9,19 @@
   color: #fff;
   z-index: inherit;
 }
+@media (max-width: 1280px) {
+
+}
+@media (max-width: 1024px) {
+
+}
+@media (max-width: 768px) {
+
+}
+@media (max-width: 425px) {
+  .cover__subtitle {
+    font-size: 14px;
+    line-height: 16px;
+    padding: 0 5%;
+  }
+}

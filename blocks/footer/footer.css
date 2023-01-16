@@ -5,3 +5,24 @@
   justify-content: space-between;
   padding-bottom: 24px;
 }
+@media (max-width: 1280px) {
+
+}
+@media (max-width: 1024px) {
+  .footer {
+    padding-left: 4.6875%;
+    padding-right: 4.6875%;
+  }
+}
+@media (max-width: 768px) {
+  .footer {
+    padding-left: 3.125%;
+    padding-right: 3.125%;
+  }
+}
+@media (max-width: 425px) {
+  .footer {
+    flex-direction: column;
+    padding: 0 5% 7.5% 5%;
+  }
+}

@@ -10,3 +10,20 @@
   color: #fff;
   z-index: inherit;
 }
+@media (max-width: 1280px) {
+
+}
+@media (max-width: 1024px) {
+
+}
+@media (max-width: 768px) {
+
+}
+@media (max-width: 425px) {
+  .cover__title {
+    font-size: 32px;
+    line-height: 35px;
+    padding: 0 5% 5% 5%;
+  }
+}
+
