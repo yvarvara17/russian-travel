@@ -1,8 +1,9 @@
 .footer__nav {
-  display: flex;
+  font-size: 0;
 }
 @media (max-width: 425px) {
   .footer__nav {
+    display: flex;
     flex-direction: column;
     padding-bottom: 48px;
   }
