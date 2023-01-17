@@ -8,9 +8,6 @@
 .place__paragraph:not(:last-child) {
   padding-bottom: 26px;
 }
-@media (max-width: 1280px) {
-
-}
 @media (max-width: 1024px) {
   .place__paragraph:not(:last-child) {
     padding-bottom: 27px;

@@ -9,12 +9,6 @@
   max-width: 984px;
   margin: 0 auto;
 }
-@media (max-width: 1280px) {
-
-}
-@media (max-width: 1024px) {
-
-}
 @media (max-width: 768px) {
   .lead__caption {
     padding: 8px 0 0 24px;
@@ -24,6 +18,5 @@
 @media (max-width: 425px) {
   .lead__caption {
     padding: 2.5% 5% 0 5%;
-    letter-spacing: .15em;
   }
 }

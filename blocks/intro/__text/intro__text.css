@@ -6,9 +6,6 @@
   line-height: 163%;
   padding: 40px 0 33px 0;
 }
-@media (max-width: 1280px) {
-
-}
 @media (max-width: 425px) {
   .intro__text {
     padding: 40px 0 34px 0;

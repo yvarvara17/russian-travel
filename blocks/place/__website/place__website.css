@@ -1,9 +1,6 @@
 .place__website {
   align-self: end;
 }
-@media (max-width: 1280px) {
-
-}
 @media (max-width: 425px) {
   .place__website {
     padding: 0 5%;
